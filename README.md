@@ -13,6 +13,7 @@ This project involves fine-tuning the Code Llama model to become proficient in g
 
 - Python 3.7 or higher
 - Jupyter Notebook
+- Nvidia GPU
 - Kaggle account (if running on Kaggle)
 - Required Python packages:
   - `transformers`

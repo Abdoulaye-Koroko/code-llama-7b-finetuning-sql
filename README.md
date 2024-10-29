@@ -4,8 +4,8 @@ This project involves fine-tuning the Code Llama model to become proficient in g
 
 ## Project structure
 
-- **train.ipynb**: This Jupyter notebook contains the code for fine-tuning the Code Llama model using LoRA and a dataset of text-to-SQL examples.
-- **deploy.ipynb**: This Jupyter notebook sets up a Gradio interface to interact with the fine-tuned model, allowing users to input context (e.g. database schemas) and questions to receive SQL query outputs.
+- **train.ipynb**: this Jupyter notebook contains the code for fine-tuning the Code Llama model using LoRA and a dataset of text-to-SQL examples.
+- **deploy.ipynb**: this Jupyter notebook sets up a Gradio interface to interact with the fine-tuned model, allowing users to input context (e.g. database schemas) and questions to receive SQL query outputs.
 
 ## Setup instructions
 
